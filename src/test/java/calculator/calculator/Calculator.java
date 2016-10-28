@@ -352,7 +352,6 @@ public class Calculator extends JFrame implements ActionListener {
      	operands.empty();
 	 }
 	 
-
 	public static void main(String[] args)
 	 {
 		Calculator gui= new Calculator( );
